@@ -35,7 +35,7 @@ if(usuario == "karolinne" && senha == "3"){
 
     setTimeout(() => {
 
-    location.href = "home.html";
+    <a href = "home.html"></a>
 
     }, 500);
     
