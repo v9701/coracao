@@ -35,7 +35,7 @@ if(usuario == "karolinne" && senha == "3"){
 
     setTimeout(() => {
 
-    <a href = "home.html"></a>
+    location.href = "https://v9701.github.io/coracao/home.html";
 
     }, 500);
     
