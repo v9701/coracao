@@ -45,7 +45,7 @@ if(usuario == "karolinne" && senha == "3"){
 
     setTimeout(() => {
 
-        location.href = "erro.html";
+        location.href = "https://v9701.github.io/coracao/erro.html";
     
         }, 500);
 
